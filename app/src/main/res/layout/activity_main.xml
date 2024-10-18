@@ -35,6 +35,7 @@
         android:hint="Ingrese el nombre completo"
         android:textColorHint="@color/black"
         android:gravity="center"
+        
         android:textColor="@color/black"
         android:layout_gravity="center"
 
