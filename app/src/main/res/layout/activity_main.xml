@@ -102,7 +102,7 @@
             />
 
         <Button
-            android:id="@+id/ibSave"
+            android:id="@+id/idSave"
             android:layout_width="250dp"
             android:layout_height="wrap_content"
             android:textColor="@color/white"
